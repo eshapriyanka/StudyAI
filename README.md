@@ -199,6 +199,4 @@ streamlit run app.py
 ## Author
 
 **Esha Priyanka Thota**
-
-Computer Science and Engineering Student
 ---
