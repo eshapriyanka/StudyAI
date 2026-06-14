@@ -1,6 +1,6 @@
 # StudyAI — RAG-Based PDF Assistant
 
-StudyAI is an intelligent learning assistant that transforms static lecture notes into an interactive study environment. Built using Retrieval-Augmented Generation (RAG), StudyAI enables students to upload academic PDFs and interact with them through natural language queries, automated summarization, quiz generation, and personalized study planning. The system incorporates intent-based routing and session memory to provide context-aware responses and support follow-up interactions, creating a more engaging and efficient learning experience.
+### StudyAI is an intelligent learning assistant that transforms static lecture notes into an interactive study environment. Built using Retrieval-Augmented Generation (RAG), StudyAI enables students to upload academic PDFs and interact with them through natural language queries, automated summarization, quiz generation, and personalized study planning. The system incorporates intent-based routing and session memory to provide context-aware responses and support follow-up interactions, creating a more engaging and efficient learning experience.
 ---
 
 ## Features
